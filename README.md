@@ -1,7 +1,6 @@
 #### FlutterApp_Back-End
 ## This project is the back-end part of the mobile application we make as a finishing project.
 
-> - Proje marketler arası bir sosyal ağ gibi düşünülmüştür. 
 > - The project is thought of as an inter-grocery social network.
 > - For login, the user can log in to the system by creating a username and password.
 > - It will install the products they come across in the markets through the profile they create and will allow them to be aware of the prices and discounts of their other users.
